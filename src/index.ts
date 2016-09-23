@@ -16,6 +16,6 @@ export class Matches extends Array<string> {
             cwd: context.cwd
         });
 
-        return new this(paths);
+        return new this(...paths);
     }
 }
