@@ -1,0 +1,35 @@
+{
+  "name": "clime-glob",
+  "version": "0.1.0",
+  "description": "Clime string-castable objects that expand glob patterns to paths.",
+  "main": "bld/index.js",
+  "typings": "bld/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilic/clime-glob.git"
+  },
+  "keywords": [
+    "clime",
+    "glob",
+    "path"
+  ],
+  "author": "vilicvane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vilic/clime-glob/issues"
+  },
+  "homepage": "https://github.com/vilic/clime-glob#readme",
+  "peerDependencies": {
+    "clime": "^0.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.2"
+  },
+  "dependencies": {
+    "globby": "^6.0.0"
+  }
+}
