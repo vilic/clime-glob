@@ -12,6 +12,7 @@
     "emitDecoratorMetadata": true,
     "stripInternal": true,
     "sourceMap": true,
+    "declaration": true,
     "newLine": "LF",
     "rootDir": "src",
     "outDir": "bld",
