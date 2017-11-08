@@ -1,6 +1,6 @@
 {
   "name": "clime-glob",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Clime string-castable objects that expand glob patterns to paths.",
   "main": "bld/index.js",
   "typings": "bld/index.d.ts",
